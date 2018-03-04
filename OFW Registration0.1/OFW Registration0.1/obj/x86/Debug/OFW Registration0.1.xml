@@ -1,0 +1,127 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OFWRegistration0.1
+</name>
+</assembly>
+<members>
+<member name="T:OFW_Registration0._1.OFWRegistrationDataSet.AddressDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OFW_Registration0._1.OFWRegistrationDataSet.BeneficiariesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OFW_Registration0._1.OFWRegistrationDataSet.ContractDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OFW_Registration0._1.OFWRegistrationDataSet.PersonalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OFW_Registration0._1.OFWRegistrationDataSet.RegistrationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OFW_Registration0._1.OFWRegistrationDataSet.AddressRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OFW_Registration0._1.OFWRegistrationDataSet.BeneficiariesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OFW_Registration0._1.OFWRegistrationDataSet.ContractRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OFW_Registration0._1.OFWRegistrationDataSet.PersonalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OFW_Registration0._1.OFWRegistrationDataSet.RegistrationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OFW_Registration0._1.OFWRegistrationDataSet.AddressRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OFW_Registration0._1.OFWRegistrationDataSet.BeneficiariesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OFW_Registration0._1.OFWRegistrationDataSet.ContractRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OFW_Registration0._1.OFWRegistrationDataSet.PersonalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OFW_Registration0._1.OFWRegistrationDataSet.RegistrationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OFW_Registration0._1.OFWRegistrationDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:OFW_Registration0._1.OFWRegistrationDataSetTableAdapters.AddressTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OFW_Registration0._1.OFWRegistrationDataSetTableAdapters.BeneficiariesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OFW_Registration0._1.OFWRegistrationDataSetTableAdapters.ContractTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OFW_Registration0._1.OFWRegistrationDataSetTableAdapters.PersonalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OFW_Registration0._1.OFWRegistrationDataSetTableAdapters.RegistrationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:OFW_Registration0._1.OFWRegistrationDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(OFW_Registration0._1.OFWRegistrationDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:OFW_Registration0._1.OFWRegistrationDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(OFW_Registration0._1.OFWRegistrationDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:OFW_Registration0._1.OFWRegistrationDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(OFW_Registration0._1.OFWRegistrationDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:OFW_Registration0._1.OFWRegistrationDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:OFW_Registration0._1.OFWRegistrationDataSetTableAdapters.TableAdapterManager.UpdateAll(OFW_Registration0._1.OFWRegistrationDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:OFW_Registration0._1.OFWRegistrationDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:OFW_Registration0._1.OFWRegistrationDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:OFW_Registration0._1.OFWRegistrationDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
